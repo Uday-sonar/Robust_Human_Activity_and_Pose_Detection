@@ -32,7 +32,7 @@ This project demonstrates a robust human activity and pose detection system usin
 1. Run the main script to start the activity and pose detection:
 
     ```bash
-    python main.py
+    python new.py
     ```
 
 2. Choose the input mode:
@@ -52,7 +52,7 @@ robust-human-activity-pose-detection/
 ├── data/
 │   └── sample_video.mp4  # Sample video file for testing
 │
-├── main.py
+├── new.py
 ├── README.md
 ```
 
